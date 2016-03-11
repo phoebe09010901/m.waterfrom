@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+font-family: 'UniversNextPro-Light';
+src:url('../fonts/258C67_0_0.eot');
+src:url('../fonts/258C67_0_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/258C67_0_0.woff') format('woff'),
+    url('../fonts/258C67_0_0.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Klill-Light';
+src:url('../fonts/Klill-Light.eot');
+src:url('../fonts/Klill-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Klill-Light.woff') format('woff'),
+    url('../fonts/Klill-Light.ttf') format('truetype'),
+    url('../fonts/Klill-Light.svg#Klill-Light') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'MyriadSetPro-Thin';
+src:url('../fonts/MyriadSetPro-Thin.eot');
+src:url('../fonts/MyriadSetPro-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MyriadSetPro-Thin.woff') format('woff'),
+    url('../fonts/MyriadSetPro-Thin.ttf') format('truetype'),
+    url('../fonts/MyriadSetPro-Thin.svg#MyriadSetPro-Thin') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'ArnoPro-LightDisplay';
+src:url('../fonts/ArnoPro-LightDisplay.eot');
+src:url('../fonts/ArnoPro-LightDisplay.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ArnoPro-LightDisplay.woff') format('woff'),
+    url('../fonts/ArnoPro-LightDisplay.ttf') format('truetype'),
+    url('../fonts/ArnoPro-LightDisplay.svg#ArnoPro-LightDisplay') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Montserrat';
+src:url('../fonts/Montserrat.eot');
+src:url('../fonts/Montserrat.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Montserrat.woff') format('woff'),
+    url('../fonts/Montserrat.ttf') format('truetype'),
+    url('../fonts/Montserrat.svg#Montserrat') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+.font-family_01 { font-family: 'UniversNextPro-Light'; }
+.font-family_02 { font-family: 'Klill-Light'; }
+.font-family_03 { font-family: 'MyriadSetPro-Thin'; }
+.font-family_04 { font-family: 'ArnoPro-LightDisplay'; }
+.font-family_05 { font-family: 'Montserrat'; }
+.font-family_06 { font-family: Arial, Helvetica, sans-serif; }
+.font-family_07 { font-family:'Microsoft JhengHei', 微軟正黑體,sans-serif; }
+
+.color_01 { color:#3d3a39; } /*深灰 大標*/
+.color_02 { color:#595757; } /*深灰 上標線*/
+.color_03 { color:#656565; } /*深灰 小標*/
+.color_04 { color:#727171; } /*深淺灰 下標線*/
+.color_05 { color:#969696; } /*淺灰 內文*/
+.color_06 { color:#3e3a39; } /*咖啡灰*/
+.color_07 { color:#FFF; }    /*白*/
+.color_08 { color:#888; }    /*深藍*/
+.color_09 { color:#000; }    /*黑*/
+.color_10 { color:#6A6872; } /*藍灰*/
+
+.font-size_01 { font-size:22.6px; } /*10*/
+.font-size_02 { font-size:27px; } /*12*/
+.font-size_03 { font-size:32px; } /*14*/
+.font-size_04 { font-size:36px; } /*16*/
+.font-size_05 { font-size:41px; } /*18*/
+.font-size_06 { font-size:38px; } /*17*/
+.font-size_07 { font-size:50px; } /*22*/
+.font-size_08 { font-size:45px; } /*20*/
+.font-size_09 { font-size:29px; } /*13*/
+.font-size_10 { font-size:40px; } /*15*/
+
+.font_02 { font-size:41px; }
+
+.line-height_01 { line-height:50px; } /*22*/
+.line-height_02 { line-height:72px; } /*32*/
+.line-height_03 { line-height:81px; } /*36*/
+.line-height_04 { line-height:90px; } /*40*/
+.line-height_05 { line-height:60px; } /*26.5*/
+.line-height_06 { line-height:34px; } /*15*/
+.line-height_07 { line-height:43px; } /*19*/
+.line-height_08 { line-height:113px; } /*50*/
+.line-height_09 { line-height:22.6px; } /*10*/
+.line-height_10 { line-height:32px; } /*10*/

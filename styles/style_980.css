@@ -1,0 +1,229 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.wapper_01 {
+	width:100%;
+	height:auto;
+}
+
+
+header {
+	width:100%;
+	height:146px;
+	position:relative;
+}
+	.menu_icon_01 { 
+		width:146px; 
+		height:146px;
+		position:absolute;
+		z-index:20002;
+		top:0px;
+		left:0px;
+	}
+	.logo_01 {
+		width:100%;
+		height:35px;
+		float:left;
+		margin: 57px 0 0 0;
+		text-align:center;
+		position:absolute;
+		z-index:20001;
+	}
+	
+	.menu_bg {
+		width:100%;
+		overflow:hidden;
+		position:fixed;
+		z-index:20003;
+		top:0px;
+		left:0px;
+	}
+	.menu_block {
+		width:752px;
+		overflow-y:auto;
+		background:url(../images/menu_bg.png) repeat top left;
+	}
+		.menu_block .control {
+			width:100%; 
+			height:147px;
+			border-bottom:1px #595757 solid;
+		}
+			.menu_block .control .menu_icon_02 { 
+				width:146px; 
+				height:146px;
+				float:left;
+			}
+			.menu_block .control .close { 
+				width:146px; 
+				height:146px;
+				float:right;
+			}
+		.menu_block .menu_title { 
+			width:100%; 
+			height:110px;
+			border-bottom:1px #727171 solid;
+			padding:27px 0 0 53px;
+		}
+		.menu_block .menu_sub {
+			width:110px;
+			height:83px;
+			float:right;
+			background:url(../images/menu_icon_04.png) no-repeat top left;
+			background-size: 110px 86px;
+		}
+		.menu_block .share_icon_block_02 {
+			width:100%;
+			height:600px;
+			padding:27px 0 0 45px;
+		}
+
+	
+
+section {}
+	.title_01 {
+		width:100%;
+		height:108px;
+		padding:13px 45px 13px 45px;
+		text-align:center;
+	}
+	.photo_01 {
+		width:100%;
+		text-align:center;
+		background:#CCC;
+		overflow:hidden;
+	}
+	.photo_02 {
+		width:359px;
+		height:230px;
+		float:left;
+		margin-right:30px;
+		background:#CCC;
+		overflow:hidden;
+	}
+	.infomation_01 {
+		width:100%;
+		padding:25px 45px 25px 45px;
+	}
+	.infomation_01 a {
+		color:#3d3a39;
+	}
+	.infomation_01 a:hover {
+		color:#3d3a39;
+	}
+	.infomation_02 {
+		width:100%;
+		padding:25px 45px 25px 45px;
+		position:relative;
+	}
+	.infomation_02 a {
+		color:#3d3a39;
+	}
+	.infomation_02 a:hover {
+		color:#3d3a39;
+	}
+	.year {
+		float:right;
+	}
+	
+
+footer {
+	width:100%;
+	height:270px;
+}
+	.title_02 {
+		width:100%;
+		height:114px;
+		padding:25px 0 0 0;
+		margin-bottom:5px;
+		text-align:center;
+	}
+	.share_icon_block_01 {
+		width:100%;
+		text-align:center;
+	}
+
+
+
+
+.line { width:100%; height:1px; background:#505050; }
+.line_about { width:100%; height:1px; background:#505050; }
+
+
+
+/*--------------------- 首頁 ---------------------*/
+.banner_block {
+	width:100%; 
+	height:1310px; 
+	background:#CCC;
+}
+
+
+/*--------------------- about ---------------------*/
+.awards_year { width:11%; float:left;}
+.awards_info { width:88%; float:left;}
+.info_01 { margin:0 0 50px 0; }
+.info_02 { margin: 50px 0; }
+.info_03 { margin: 50px 0; }
+.info_04 { margin: 50px 0; }
+.height_50 { width:100%; height:50px; }
+
+
+
+/*--------------------- issue ---------------------*/
+.mobile_prev { 
+	float:left;
+	width:108px;
+	height:40px;
+}
+.mobile_next { 
+	float:right;
+	width:108px;
+	height:40px;
+}
+
+
+
+/*--------------------- press ---------------------*/
+.photo_left { float:left; width:49%; height:620px; overflow:hidden; text-align:right; }
+.photo_right { float:right; width:49%; height:620px; overflow:hidden; text-align:left; }
+.year_right { float:right;}
+
+.year_bar_block { width:auto; overflow:hidden; padding:0 50px 0 50px; }	
+	.year_bar_block .scrollable {
+        width:100%;
+		overflow: auto;
+     }
+	 .year_bar_block .items{
+		 height:100px;
+     }
+	 .year_bar_block .items a {
+		 color:#fff;
+	 }
+	 .year_bar_block .items a:hover {
+		 color:#fff;
+	 }
+	 .year_03 {
+		 width:198px;
+		 float:left;
+     }
+	  
+
+
+/*--------------------- contact ---------------------*/	
+.map_icon {
+	width:102px;
+	height:56px;
+	position:absolute;
+	z-index:20003;
+	bottom:15px;
+	right:40px;
+}
+
+
+
+
+
+
+
+
+
