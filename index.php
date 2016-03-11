@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="styles/reset.css" />
 <link rel="stylesheet" href="styles/style_980.css" />
 <link rel="stylesheet" href="styles/word.css" />
-<script type="text/javascript" src="scripts/jquery-1.10.2.min.js"></script>
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 
 <!-- menu -->
 <script type="text/javascript" src="scripts/menu.js"></script>
@@ -101,8 +101,8 @@
     </div>
     
     <!-- banner -->
-    <script type="text/javascript" src="scripts/jquery-1.10.2.min.js" ></script>
-	<script type="text/javascript" src="scripts/bzBanner.js" ></script>
+	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="scripts/bzbanner.min.js" ></script>
     <script type="text/javascript">
         $(function(){ benzi.bzBanner(); });
     </script>
