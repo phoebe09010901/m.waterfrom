@@ -49,17 +49,17 @@
                 <div class="photo_01" style="margin-bottom:20px;"><img src="images/pro_08.png" width="100%" height="664"/></div>
 			</article>
             
-            <article style="margin:70px 70px 90px 70px;">
+            <article style="margin:50px 70px 70px 70px;">
             	<div class="font-family_06 color_01 font-size_05 line-height_01">More Architecture</div>
                 
-                <div class="font-size_09 color_01" style="margin:30px 0 30px 0;">
+                <div class="font-size_09 color_01" style="margin:30px 0 50px 0;">
                     <div class="photo_02"><img src="images/pro_09.png" width="100%" height="230"/></div>
                     <div class="line-height_06">自由平面</div>
                     <div class="line-height_01">Le plan libre</div>
                     <div class="font-size_03 color_03 line-height_07">喜好獨處窩居的感受，將制式長形家屋的蔽障去除，刻意創造“角落”。</div>
                 </div>
                 
-                <div class="font-size_09 color_01" style="margin:30px 0 30px 0;">
+                <div class="font-size_09 color_01" style="margin:50px 0 30px 0;">
                     <div class="photo_02"><img src="images/pro_10.png" width="100%" height="230"/></div>
                     <div class="line-height_06">垂直森林</div>
                     <div class="line-height_01">Vertical Forest</div>
@@ -71,10 +71,10 @@
             <div class="clear"></div>
             <div class="line"></div>
             
-            <article style="margin:70px 70px 90px 70px;">
+            <article style="margin:50px 70px 70px 70px;">
             	<div class="font-family_06 color_01 font-size_05 line-height_01">More Residential</div>
                 
-                <div class="font-size_09 color_01" style="margin:30px 0 30px 0;">
+                <div class="font-size_09 color_01" style="margin:50px 0 30px 0;">
                     <div class="photo_02"><img src="images/pro_11.png" width="100%" height="230"/></div>
                     <div class="line-height_06">自由平面</div>
                     <div class="line-height_01">Le plan libre</div>

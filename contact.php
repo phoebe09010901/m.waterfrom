@@ -60,7 +60,7 @@
                     P+15800869039<br />
                     上海市长宁区华山路800弄18号2204室<br />
                     Room 2204, No.18, Lane 800, Huashan Road, Changning District, Shanghai<br />
-                    联络人：Ms.Hsu
+                    联络人：Ms.Hsu<br />
                     <a href="mailto:info@waterfrom.com">info@waterfrom.com</a>
                     <div class="map_icon"><a href="https://goo.gl/maps/wLmhbxfZ2GP2"><img src="images/map_01.png" width="102" height="56" /></a></div>
                 </div>

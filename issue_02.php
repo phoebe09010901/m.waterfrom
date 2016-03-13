@@ -35,12 +35,11 @@
         <section>
             
             <article>
-                <div class="infomation_01 color_01 font-size_03 line-height_01">
-                    <div style=" margin: 25px 0 25px 0;">
-                        <span class="font-size_08 line-height_05">矩形塗染</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="font-size_07 line-height_05">Fun with Rectangl</span>
-                    </div>
-                    <div class="font-family_04 font-size_03 line-height_05">1 January 2016</div>
+                <div style=" margin: 25px 40px 25px 40px;">
+                    <span class="font-size_05 line-height_05 color_01">矩形塗染</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="font-size_05 line-height_05 color_01">Fun with Rectangl</span>
+                    <div class="year font-family_04 font-size_03 line-height_05 color_01">1 January 2016</div>
                 </div>
+                
                 <div class="photo_01"><img src="images/issue_01.png" width="100%" height="664"/></div>
                 <div class="infomation_01 color_01 font-size_03 line-height_01">
                     今年一月號室內雜誌完整報導了水相設計去年住宅案新作『Timeless』，此棟位於淡水的名宅特色是一戶一泳池，遠眺觀音山淡水河出海口

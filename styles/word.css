@@ -66,7 +66,7 @@ font-style: normal;
 .color_01 { color:#3d3a39; } /*深灰 大標*/
 .color_02 { color:#595757; } /*深灰 上標線*/
 .color_03 { color:#656565; } /*深灰 小標*/
-.color_04 { color:#727171; } /*深淺灰 下標線*/
+.color_04 { color:#9B9B9B; } /*深淺灰 下標線*/
 .color_05 { color:#969696; } /*淺灰 內文*/
 .color_06 { color:#3e3a39; } /*咖啡灰*/
 .color_07 { color:#FFF; }    /*白*/
@@ -97,3 +97,4 @@ font-style: normal;
 .line-height_08 { line-height:113px; } /*50*/
 .line-height_09 { line-height:22.6px; } /*10*/
 .line-height_10 { line-height:32px; } /*10*/
+.line-height_11 { line-height:32px; } /*10*/

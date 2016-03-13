@@ -39,29 +39,13 @@ $(document).ready(function(){
     
     <div class="wapper_01">
         
-      	<header>
-            <?php include('include_top.php');?>
+      	<header style="height:255px;">
+            <?php include('include_top2.php');?>
       	</header>
         
         <div class="line"></div>
         
         <section>
-            
-            <article style="background:#000;">
-            	<div class="year_bar_block">
-                    <div class="scrollable">
-                        <div class="items font-size_08 line-height_08">
-                            <a href="javascript:;"><div class="year_03">2015</div></a>
-                            <a href="javascript:;"><div class="year_03">2014</div></a>
-                            <a href="javascript:;"><div class="year_03">2013</div></a>
-                            <a href="javascript:;"><div class="year_03">2012</div></a>
-                            <a href="javascript:;"><div class="year_03">2011</div></a>
-                            <a href="javascript:;"><div class="year_03">2010</div></a>
-                            <a href="javascript:;"><div class="year_03">2009</div></a>
-                        </div>
-                    </div>
-                </div>
-            </article>
             
             <div class="clear"></div>
             

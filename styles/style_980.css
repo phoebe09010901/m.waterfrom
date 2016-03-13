@@ -12,6 +12,16 @@ header {
 	height:146px;
 	position:relative;
 }
+	.top_menu {
+		width:100%;
+		height:146px;
+		position:fixed;
+		z-index:100;
+		top:0;
+		left:0;
+		background:#FFF;
+		border-bottom:1px #505050 solid;
+	}
 	.menu_icon_01 { 
 		width:146px; 
 		height:146px;
@@ -128,13 +138,13 @@ section {}
 
 footer {
 	width:100%;
-	height:270px;
+	height:200px;
 }
 	.title_02 {
 		width:100%;
 		height:114px;
-		padding:25px 0 0 0;
-		margin-bottom:5px;
+		padding:15px 0 0 0;
+		margin-bottom:0px;
 		text-align:center;
 	}
 	.share_icon_block_01 {
@@ -188,7 +198,7 @@ footer {
 .photo_right { float:right; width:49%; height:620px; overflow:hidden; text-align:left; }
 .year_right { float:right;}
 
-.year_bar_block { width:auto; overflow:hidden; padding:0 50px 0 50px; }	
+.year_bar_block { width:auto; overflow:hidden; padding:0 50px 0 46px; margin-top:146px; }	
 	.year_bar_block .scrollable {
         width:100%;
 		overflow: auto;
